@@ -1,0 +1,61 @@
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\MasterDhobi.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\MasterDhobi.pdb
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Antlr3.Runtime.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.AspNet.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.Core.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\EntityFramework.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\System.Web.Optimization.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\System.Web.Providers.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\WebGrease.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\EntityFramework.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.Core.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.AspNet.xml
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.csprojResolveAssemblyReference.cache
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.dll
+c:\users\ali\documents\visual studio 2012\Projects\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.pdb
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\MasterDhobi.dll.config
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\MasterDhobi.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\MasterDhobi.pdb
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Antlr3.Runtime.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\AspNet.ScriptManager.jQuery.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\AspNet.ScriptManager.jQuery.UI.Combined.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.AspNet.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.Core.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.Consumer.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\EntityFramework.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Microsoft.AspNet.Membership.OpenAuth.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Microsoft.ScriptManager.WebForms.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\Microsoft.Web.Infrastructure.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\System.Web.Optimization.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\System.Web.Providers.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\WebGrease.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\EntityFramework.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.Core.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OAuth.Consumer.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\bin\DotNetOpenAuth.AspNet.xml
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.csprojResolveAssemblyReference.cache
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.dll
+F:\waqas\MIT-4\Technoprenureship\DhobiTheme\Working Web\site\MasterDhobi\MasterDhobi\obj\Debug\MasterDhobi.pdb
