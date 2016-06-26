@@ -15,17 +15,18 @@
     <div class="service-detail_content">
   <div class="container">
     <div class="row">
+
         <div class="col-sm-6">
              <div class="panel-group accordion-rn" id="Div1" role="tablist" aria-multiselectable="false">
         <div class="panel">
             <div class="panel-heading" role="tab" id="heading-service-three">
               <h4 class="panel-title">
-                <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion-service" href="#collapse-service-three" aria-expanded="false" aria-controls="collapse-service-three">
+                <a class="" role="button" data-toggle="collapse" data-parent="#accordion-service" href="#collapse-service-three" aria-expanded="true" aria-controls="collapse-service-three">
                 <h1> <center> MAN</center></h1>
                 </a>
               </h4>
             </div>
-            <div style="height: 0px;" aria-expanded="false" id="collapse-service-three" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-service-three">
+            <div style="" aria-expanded="true" id="collapse-service-three" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-service-three">
               <div class="panel-body">
                <table class="table-service">
                   <thead>
@@ -213,9 +214,10 @@
             </div>
           </div>
             </div></div>
+
       <div class="col-sm-6">
        
-      <div class="panel-group accordion-rn" id="Div4" role="tablist" aria-multiselectable="true">
+      <div class="panel-group accordion-rn" id="Div4" role="tablist" aria-multiselectable="false">
         <div class="panel">
           <div class="panel-heading" role="tab" id="heading-service-two">
             <h4 class="panel-title">
@@ -224,7 +226,7 @@
               </a>
             </h4>
           </div>
-          <div style="height: 0px;" aria-expanded="true" id="collapse-service-two" class="panel-collapse collapse" role="tabpanel" aria-labelledby="heading-service-two">
+          <div style="height: 0px;" aria-expanded="true" id="collapse-service-two" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="heading-service-two">
             <div class="panel-body">
               <table class="table-service">
                   <thead>
@@ -547,7 +549,6 @@
                    </div>
             </div>
           </div></div></div>
-      
 
      <div class="col-sm-6">
              <div class="panel-group accordion-rn" id="Div3" role="tablist" aria-multiselectable="false">
